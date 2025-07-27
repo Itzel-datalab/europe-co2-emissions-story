@@ -19,3 +19,14 @@ By using public emissions datasets and visual storytelling techniques, the analy
 
 ## 📁 Project Structure
 
+europe-co2-emissions-story/
+├── data/
+│   └── europe_co2_data.csv            # Raw dataset with historical CO₂ emissions and related indicators
+├── notebooks/
+│   └── europe_co2_analysis.ipynb      # Jupyter notebook containing data cleaning, analysis, and visualizations
+├── outputs/
+│   └── Plots/
+│       └── CO2_Emissions_Top10.png      # Key visualizations used in the storytelling
+├── .gitignore                         # Files and folders to be ignored by Git
+├── README.md                         # Project overview, instructions, and documentation
+└── requirements.txt                  # Python dependencies needed to run the notebook
